@@ -1,1 +1,2 @@
 print("hsalloghgameni")
+print("amni")
